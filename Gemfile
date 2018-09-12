@@ -28,6 +28,10 @@ gem 'jbuilder', '~> 2.5'
 
 #IEX Finance API Ruby client with support for retrieving stock quotes.
 gem 'iex-ruby-client', '~> 0.2.0'
+
+#Makes http fun! Also, makes consuming restful web services dead easy.
+gem 'httparty', '~> 0.16.2'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
